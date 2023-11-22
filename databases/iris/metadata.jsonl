@@ -1,0 +1,1 @@
+{"Attribute":{"Attribute.id":"int","Attribute.sepalLengthCm":"float","Attribute.sepalWidthCm":"float","Attribute.petalLengthCm":"float","Attribute.petalWidthCm":"float"},"Kind":{"Kind.id":"int","Kind.species":"str"}}
